@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pulse Messenger",
+  "description": "A clean, modern messaging application with real-time conversations, user avatars, and a responsive interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "real-time-messaging"
+  ]
+}
